@@ -1,2 +1,4 @@
 # Stigler-Diet-Problem-Solution
-Solving the Stigler Diet Problem required finding the most cost-effective diet that meets nutritional requirements.
+• Solving the Stigler Diet Problem required finding the most cost-effective diet that meets nutritional requirements.
+• Utilized Selenium and Beautiful Soup libraries in Python with Jupyter to web scrape food names and prices from a dynamic website. Acquired nutritional data from the FDA and matched it with the website data using the Levenshtein Distance. Conducted data cleaning, transformation, and integration using NumPy and Pandas. Finally, applied linear optimization techniques with SciPy to the processed data to find the Stigler solution.
+• The Stigler Diet Solution identified the least expensive combination of food types that met all nutritional requirements, reducing costs by up to 85% compared to the average expenditure, and visualized the results using Matplotlib.
